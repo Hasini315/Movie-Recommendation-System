@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-==============================
+------------------------------
 This is a *content-based recommendation engine* that suggests movies based on features of content which are similar using *Machine Learning* processing techniques.
 
 ## Few Key Features:
