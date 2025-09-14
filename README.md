@@ -11,20 +11,20 @@
 ------------------------------------------------------------------------
 
 ## Technical Stack:
-- Python with *Pandas*, NumPy for data processing.
-- Scikit-learn for TF-IDF and Cosine similarity.
-- Difflib for intelligent text matching.
+- Python with *Pandas*, *NumPy* for data processing.
+- *Scikit-learn* for TF-IDF and Cosine similarity.
+- *Difflib* for intelligent text matching.
 ------------------------------------------------------------------------
 
 ## Working:
-- It processes movie genres, keywords, cast, director, tagline.
-- It calculates similarity scores between all movies.
-- It returns top 10 most similar movies to user's input.
+- It processes movie *genres*, *keywords*, *cast*, *director*, *tagline*.
+- It calculates *similarity scores* between all movies.
+- It returns *top 10 most similar movies* to user's input.
 ------------------------------------------------------------------------
 ## Unique Aspects:
 -----------------
-- Works based on movie content characteristics.
-- Doesn't require user rating history.
-- Handles misspelled movie names gracefully.
-- Lightweight and efficient algorithm.
+- Works based on *movie content characteristics*.
+- Doesn't require *user rating history*.
+- Handles *misspelled movie names*.
+- *Lightweight and efficient* algorithm.
 ------------------------------
