@@ -21,10 +21,20 @@
 - It calculates *similarity scores* between all movies.
 - It returns *top 10 most similar movies* to user's input.
 ------------------------------------------------------------------------
+
 ## Unique Aspects:
------------------
 - Works based on *movie content characteristics*.
 - Doesn't require *user rating history*.
 - Handles *misspelled movie names*.
 - *Lightweight and efficient* algorithm.
-------------------------------
+------------------------------------------------------------------------
+
+## How to Open:
+- Open the .ipynb files:
+  - Go to the Github repository.
+  - Click on the .ipynb  file.
+  - Click "Open in Colab" to open in google colab.
+- Download CSV file:
+  - Download the CSV file.
+  - Upload the CSV file in the Colab and run all the codes.
+------------------------------------------------------------------------
